@@ -1,0 +1,49 @@
+{
+    "frames": [{
+        "name": "sprite-00",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "w": 37,
+          "h": 41
+        }
+      },
+      {
+        "name": "sprite-01",
+        "position": {
+          "x": 0,
+          "y": 42,
+          "w": 37,
+          "h": 54
+        }
+      },
+      {
+        "name": "sprite-02",
+        "position": {
+          "x": 0,
+          "y": 96,
+          "w": 37,
+          "h": 52
+        }
+      },
+      {
+        "name": "sprite-03",
+        "position": {
+          "x": 0,
+          "y": 148,
+          "w": 37,
+          "h": 51
+        }
+      },
+      {
+        "name": "sprite-04",
+        "position": {
+          "x": 0,
+          "y": 199,
+          "w": 37,
+          "h": 51
+      }
+    }
+    
+]
+}
